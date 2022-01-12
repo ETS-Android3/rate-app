@@ -49,7 +49,8 @@ protected void onCreate(Bundle savedInstanceState) {
 
 ```
 
-**NOTE: **
+**NOTE**
+
 It evaluates itself up to 4 stars. Redirects to Play Store at 4 and 5 stars.
 
 
