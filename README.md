@@ -49,6 +49,9 @@ protected void onCreate(Bundle savedInstanceState) {
 
 ```
 
+**NOTE**
+It evaluates itself up to 4 stars. Redirects to Play Store at 4 and 5 stars.
+
 ---
 
 [Example gif 1](https://github.com/ibrahimlee/rate-app/blob/master/EXAMPLE_GIF_3_STAR.gif)
