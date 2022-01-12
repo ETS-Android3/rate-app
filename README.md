@@ -26,7 +26,7 @@ allprojects {
 Add the dependency
 ```groovy
 dependencies {
-     implementation 'com.github.ibrahimlee:rate-app:1.0.0'
+     implementation 'com.github.ibrahimlee:rate-app:TAG'
 }
 ```
 
