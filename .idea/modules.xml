@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RateApp.iml" filepath="$PROJECT_DIR$/.idea/modules/RateApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RateApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RateApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RateApp/RateApp.rate-app.iml" filepath="$PROJECT_DIR$/.idea/modules/RateApp/RateApp.rate-app.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_successful">Thank you!</string>
+    <string name="txt_rate_app">Rate App</string>
+    <string name="txt_question_rate">How much did you like the app?</string>
+    <string name="txt_btn_ask_me_later">Ask me later</string>
+    <string name="txt_btn_cancel">Cancel</string>
+</resources>

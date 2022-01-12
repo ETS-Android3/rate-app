@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_successful">Teşekkürler!</string>
+    <string name="txt_rate_app">Uygulamayı Değerlendir</string>
+    <string name="txt_question_rate">Uygulamayı ne kadar beğendin?</string>
+    <string name="txt_btn_ask_me_later">Daha sonra sor</string>
+    <string name="txt_btn_cancel">İptal et</string>
+</resources>
