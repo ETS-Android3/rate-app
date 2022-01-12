@@ -33,7 +33,7 @@ private String appId = BuildConfig.APPLICATION_ID;
 /* This defines buttons' text and stars' color. */
 private String colorString = "#2244ED";
 
-/* This defines how many times the rate giving dialog is shown on login. */
+/* This defines how many times the rate giving dialog is shown on start. */
 private int showAt = 3;
 
 ```
