@@ -1,5 +1,5 @@
 # rate-app
-RateApp is a small library that allows you to rate the app on Play Store.
+FakeRateApp is a small library that allows you to rate the app on Play Store.
 
 [![Release](https://jitpack.io/v/ibrahimlee/rate-app.svg)](https://jitpack.io/#ibrahimlee/rate-app)
 
