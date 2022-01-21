@@ -1,14 +1,8 @@
 # rate-app
-RateApp is a small library that allows you to rate the app on Play Store.
+FakeRateApp is a small library that allows you to rate the app on Play Store.
 
 [![Release](https://jitpack.io/v/ibrahimlee/rate-app.svg)](https://jitpack.io/#ibrahimlee/rate-app)
----
 
-[Example gif 1](https://i.imgur.com/7S5qqSy.gifv)
-
-[Example gif 2](https://i.imgur.com/hKWqyl1.gif)
-
------
 # Usage
 **Get RateApp library**
 
@@ -26,7 +20,7 @@ allprojects {
 Add the dependency
 ```groovy
 dependencies {
-     implementation 'com.github.ibrahimlee:rate-app:1.0.0'
+     implementation 'com.github.ibrahimlee:rate-app:TAG'
 }
 ```
 
@@ -39,7 +33,7 @@ private String appId = BuildConfig.APPLICATION_ID;
 /* This defines buttons' text and stars' color. */
 private String colorString = "#2244ED";
 
-/* This defines how many times the rate giving dialog is shown on login. */
+/* This defines how many times the rate giving dialog is shown on start. */
 private int showAt = 3;
 
 ```
@@ -54,6 +48,19 @@ protected void onCreate(Bundle savedInstanceState) {
 }
 
 ```
+
+**NOTE**
+
+It evaluates itself up to 4 stars. Redirects to Play Store at 4 and 5 stars.
+
+
+---
+
+[Example gif 1](https://github.com/ibrahimlee/rate-app/blob/master/EXAMPLE_GIF_3_STAR.gif)
+
+[Example gif 2](https://github.com/ibrahimlee/rate-app/blob/master/EXAMPLE_GIF_5_STAR.gif)
+
+-----
 
 ### Enjoy!
 
